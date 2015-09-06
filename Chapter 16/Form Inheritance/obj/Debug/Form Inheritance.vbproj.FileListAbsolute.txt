@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\bin\Debug\Form Inheritance.exe.config
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\bin\Debug\Form Inheritance.exe
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\bin\Debug\Form Inheritance.pdb
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\bin\Debug\Form Inheritance.xml
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form_Inheritance.Form1.resources
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form_Inheritance.Form2.resources
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form_Inheritance.Resources.resources
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form Inheritance.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form Inheritance.exe
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form Inheritance.xml
+C:\Users\Michael\Documents\Visual Basic 2013 SBS\Chapter 16\Form Inheritance\obj\Debug\Form Inheritance.pdb

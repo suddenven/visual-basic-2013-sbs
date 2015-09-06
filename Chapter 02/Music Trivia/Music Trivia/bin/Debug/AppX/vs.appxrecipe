@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TALIZORAH</Machine>
+    <WindowsUser>Sudden</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b99781e9-a5e9-44f7-9aa0-9ad7da9fdc46</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F04100E526853C2D4D974CFA2AB0BA6D62DACC9DAC8B0C20ED1B2BC89940F15C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b99781e9-a5e9-44f7-9aa0-9ad7da9fdc46_1.0.0.0_neutral__eq9h3e6grdrp4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b99781e9-a5e9-44f7-9aa0-9ad7da9fdc46_eq9h3e6grdrp4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b99781e9-a5e9-44f7-9aa0-9ad7da9fdc46</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Michael</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T19:00:35.561</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.exe">
+      <PackagePath>Music Trivia.exe</PackagePath>
+      <Modified>2015-06-30T19:00:35.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\Assets\guitar.bmp">
+      <PackagePath>Assets\guitar.bmp</PackagePath>
+      <Modified>2015-06-30T18:25:38.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T18:25:38.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T18:25:38.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T18:25:38.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T18:25:38.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-30T19:00:34.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-30T19:00:34.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.xr.xml">
+      <PackagePath>Music Trivia.xr.xml</PackagePath>
+      <Modified>2015-06-30T19:00:34.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-30T19:00:35.378</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

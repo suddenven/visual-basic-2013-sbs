@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Web_Browser.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Web_Browser"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="URL" HorizontalAlignment="Left" Height="28" Margin="10,23,0,0" TextWrapping="Wrap" Text="http://michaelhalvorsonbooks.com" VerticalAlignment="Top" Width="364"/>
+        <Button x:Name="NavigateButton" Content="Open" HorizontalAlignment="Left" Height="38" Margin="417,20,0,0" VerticalAlignment="Top" Width="99"/>
+        <WebView x:Name="Browser" HorizontalAlignment="Center" Height="698" Margin="10,60,10,10" VerticalAlignment="Center" Width="1346"/>
+
+    </Grid>
+</Page>

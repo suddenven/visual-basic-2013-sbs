@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Flyout_Demo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Flyout_Demo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Play" Label="Play" Click="PlayButton_Click"/>
+            <AppBarButton Icon="Pause" Label="Pause" Click="PauseButton_Click"/>
+            <AppBarSeparator/>
+            <AppBarButton Icon="Stop" Label="Stop" Click="StopButton_Click"/>
+
+            <CommandBar.SecondaryCommands>
+                <AppBarToggleButton Icon="RepeatAll" Label="Loop Track" 
+                                    Click="LoopButton_Click"/>
+                <AppBarToggleButton Icon="Mute" Label="Mute" 
+                                    Click="MuteButton_Click"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <MediaElement x:Name="MediaTool" Source="ms-appx:///Assets/Electro Sample.mp3"/>
+        <Button x:Name="Button" 
+                Content="Display Photo" 
+                HorizontalAlignment="Left" 
+                Height="73" Margin="28,33,0,0" 
+                VerticalAlignment="Top" 
+                Width="140">
+            <Button.Flyout>
+                <Flyout>
+                    <StackPanel>
+                        <TextBlock>You have requested a photo to be displayed. Do you want to continue?</TextBlock>
+                        <Button Click="DisplayPhoto_Click">Yes, display the photo</Button>
+                    </StackPanel>
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+        <Image x:Name="Image" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="1356" 
+               Source="Assets/Band.jpg" Visibility="Collapsed"/>
+
+    </Grid>
+</Page>

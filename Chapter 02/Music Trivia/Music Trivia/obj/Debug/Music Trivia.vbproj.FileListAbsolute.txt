@@ -1,0 +1,34 @@
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\App.xbf
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\MainPage.xbf
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.xr.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.exe
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.pdb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music_Trivia.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\resources.pri
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\AppxManifest.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\bin\Debug\Music Trivia.build.appxrecipe
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\App.g.i.vb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\App.g.vb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\MainPage.g.i.vb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\MainPage.g.vb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\XamlTypeInfo.g.vb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\App.xaml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\MainPage.xaml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\App.xbf
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\MainPage.xbf
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\Music Trivia.exe
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\Music_Trivia.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\Music Trivia.pdb
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\priconfig.xml
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\priconfig.xml.intermediate
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\layout.resfiles
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\layout.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\resources.resfiles
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\resources.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\pri.resfiles
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\pri.resfiles.intermediate
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\qualifiers.txt
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sudden\Documents\Visual_Basic_2013_SBS\Chapter 02\Music Trivia\Music Trivia\obj\Debug\ProjectArchitectures.txt

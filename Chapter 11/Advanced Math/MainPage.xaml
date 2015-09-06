@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Advanced_Math.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Advanced_Math"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Blue">
+        <TextBox x:Name="FirstTextBox" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="99,160,0,0" Width="139"/>
+        <TextBox x:Name="SecondTextBox" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="99,249,0,0" Width="139"/>
+        <TextBox x:Name="Result" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="449,160,0,0" Width="203"/>
+        <RadioButton x:Name="IntDivision" Content="Integer Division (\)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,151,0,0" GroupName="Operator" IsChecked="True"/>
+        <RadioButton x:Name="RemainderDiv" Content="Remainder (Mod)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,185,0,0" GroupName="Operator"/>
+        <RadioButton x:Name="Exponent" Content="Exponentiation (*)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,219,0,0" GroupName="Operator"/>
+        <RadioButton x:Name="Concatenation" Content="Concatenation (&amp;)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,253,0,0" GroupName="Operator"/>     
+        <Button x:Name="Calculate" Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="449,249,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Advanced Math Tests" VerticalAlignment="Top" Margin="38,32,0,0" FontSize="48"/>
+
+    </Grid>
+    </Page>

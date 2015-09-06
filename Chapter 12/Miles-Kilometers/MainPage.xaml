@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="Miles_Kilometers.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Miles_Kilometers"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="DataTextBox" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="441" Margin="54,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="445"/>
+        <Button x:Name="CreateButton" Content="Create Table" HorizontalAlignment="Left" Height="46" Margin="217,495,0,0" VerticalAlignment="Top" Width="125"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Music_Trivia.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Music_Trivia"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Green">
+        <TextBlock HorizontalAlignment="Left" Height="159" Margin="68,29,0,0" TextWrapping="Wrap" Text="Music Trivia" VerticalAlignment="Top" Width="695" FontSize="120" FontStyle="Italic" FontWeight="Bold"/>
+        <Image x:Name="GuitarImage" HorizontalAlignment="Left" Height="396" Margin="68,188,0,0" VerticalAlignment="Top" Width="371" Source="Assets/guitar.bmp" Visibility="Collapsed"/>
+        <TextBlock HorizontalAlignment="Left" Height="229" Margin="487,193,0,0" TextWrapping="Wrap" Text="What rock and roll instrument is often played with sharp, slapping thumb movements?" VerticalAlignment="Top" Width="333" FontSize="36"/>
+
+        <TextBox x:Name="AnswerBox" HorizontalAlignment="Left" Height="61" Margin="487,427,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="333" Visibility="Collapsed"/>
+        <Button x:Name="AnswerButton" Content="Answer!" HorizontalAlignment="Left" Height="69" Margin="487,528,0,0" VerticalAlignment="Top" Width="229" FontSize="30"/>
+
+    </Grid>
+
+</Page>
+

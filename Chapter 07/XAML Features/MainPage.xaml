@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="XAML_Features.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XAML_Features"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Orange">
+        <ToggleButton x:Name="DisplayToggleBtn" IsChecked="True" Content="Display Picture" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3,28,0,0"/>
+        <Image x:Name="AutumnImage" Height="600" HorizontalAlignment="Left"
+            Source="Assets/AutumnField.bmp" VerticalAlignment="Center" Width="800" />
+        
+    </Grid>
+</Page>

@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="Select_Case.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Select_Case"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="PageTitle" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="283,58,0,0" Height="46" Width="431" FontSize="28" Text="Greetings from around the World&#xD;&#xA;"/>
+        <TextBlock x:Name="ListBoxTitle" HorizontalAlignment="Left" Height="22" Margin="283,109,0,0" TextWrapping="Wrap" Text="Choose a Country" VerticalAlignment="Top" Width="130" FontSize="12"/>
+        <ListBox x:Name="CountryListBox" HorizontalAlignment="Left" Height="203" Margin="283,136,0,0" VerticalAlignment="Top" Width="366">
+            <ListBoxItem Name="List1"
+                         Content="Australia"/>
+            <ListBoxItem Name="List2"
+                         Content="Germany"/>
+            <ListBoxItem Name="List3"
+                         Content="Italy"/>
+            <ListBoxItem Name="List4"
+                         Content="Mexico"/>
+        </ListBox>
+
+        <TextBlock x:Name="Country" HorizontalAlignment="Left" Height="26" Margin="283,362,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="12"/>
+        <TextBox x:Name="GreetingTextBox" HorizontalAlignment="Left" Height="39" Margin="283,393,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="366"/>
+
+    </Grid>
+</Page>

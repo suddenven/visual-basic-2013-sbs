@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Variable_Elements_Array.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Variable_Elements_Array"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="Directions" HorizontalAlignment="Left" Height="34" Margin="22,27,0,0" TextWrapping="Wrap" Text="Use Create Array text box and button to set number of array elements" VerticalAlignment="Top" Width="536" FontSize="16"/>
+        <TextBox x:Name="TempInput" HorizontalAlignment="Left" Height="49" Margin="38,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65"/>
+        <Button x:Name="AddButton" Content="Add Temp to Array" HorizontalAlignment="Left" Height="61" Margin="38,140,0,0" VerticalAlignment="Top" Width="166" IsEnabled="False"/>
+        <Button x:Name="DisplayButton" Content="Display Array" HorizontalAlignment="Left" Height="61" Margin="38,216,0,0" VerticalAlignment="Top" Width="166" IsEnabled="False"/>
+        <TextBox x:Name="TempOutput" HorizontalAlignment="Left" Height="248" Margin="254,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257"/>
+        <TextBox x:Name="ArrayElements" TabIndex="0" HorizontalAlignment="Left" Height="11" Margin="38,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="CreateArrayButton" Content="Create Array" HorizontalAlignment="Left" Height="54" Margin="38,353,0,0" VerticalAlignment="Top" Width="147"/>
+
+    </Grid>
+</Page>

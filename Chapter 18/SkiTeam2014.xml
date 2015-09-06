@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<AllRacers>
+    <Skier FirstName="Claus" LastName="Hansen" Gender="M" Age="14"/>
+    <Skier FirstName="Yun-Feng" LastName="Peng" Gender="M" Age="13"/>
+    <Skier FirstName="Uzi" LastName="Hefetz" Gender="F" Age="17"/>
+    <Skier FirstName="Begoña" LastName="Hurtado" Gender="F" Age="18"/>
+    <Skier FirstName="Erzsébet" LastName="Balázs" Gender="F" Age="16"/>
+    <Skier FirstName="Holly" LastName="Holt" Gender="F" Age="16"/>
+    <Skier FirstName="Alan" LastName="Brewer" Gender="M" Age="17"/>
+    <Skier FirstName="Oliver" LastName="Kiel" Gender="M" Age="13"/>
+    <Skier FirstName="Isabelle" LastName="Scemla" Gender="F" Age="14"/>
+    <Skier FirstName="Katherine" LastName="Simpson" Gender="F" Age="16"/>
+    <Skier FirstName="Chris" LastName="Bryant" Gender="M" Age="18"/>
+    <Skier FirstName="Ayla" LastName="Kol" Gender="F" Age="19"/>
+    <Skier FirstName="Carlos" LastName="Carvallo" Gender="M" Age="15"/>
+    <Skier FirstName="Peter" LastName="Krebs" Gender="M" Age="13"/>
+    <Skier FirstName="April" LastName="Stewart" Gender="F" Age="16"/>
+    <Skier FirstName="Samantha" LastName="Smith" Gender="F" Age="16"/>
+    <Skier FirstName="Renee" LastName="Lo" Gender="M" Age="19"/>
+    <Skier FirstName="Steven" LastName="Thorpe" Gender="M" Age="13"/>
+    <Skier FirstName="Holly" LastName="Dickson" Gender="F" Age="16"/>
+    <Skier FirstName="Geoff" LastName="Grisso" Gender="M" Age="14"/>
+    <Skier FirstName="Danni" LastName="Ortman" Gender="F" Age="19"/>
+    <Skier FirstName="Adina" LastName="Hagege" Gender="F" Age="17"/>
+    <Skier FirstName="Makoto" LastName="Yamagishi" Gender="F" Age="16"/>
+    <Skier FirstName="Greg" LastName="Winston" Gender="M" Age="15"/>
+</AllRacers>

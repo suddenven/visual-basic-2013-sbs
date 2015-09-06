@@ -1,0 +1,25 @@
+﻿<Application
+    x:Class="XAML_Style_Practice.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XAML_Style_Practice">
+
+    <Application.Resources>
+        <Style x:Key="GradientButton" TargetType="Button">
+            <Setter Property="FontSize" Value="28"/>     
+            <Setter Property="Background" >        
+                <Setter.Value>           
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">                  
+                        <GradientStop Color="Black"/>                   
+                        <GradientStop Color="White" Offset="1"/>               
+                    </LinearGradientBrush>          
+                </Setter.Value>      
+            </Setter>    
+        </Style>
+        <Style x:Key="YellowGradient" TargetType="Button"
+               BasedOn="{StaticResource GradientButton}">
+            <Setter Property="BorderBrush" Value="Yellow"/>
+            <Setter Property="Foreground" Value="Yellow"/>
+        </Style>
+    </Application.Resources>
+</Application>
